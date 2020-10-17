@@ -1,43 +1,46 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Oak Tree Riding School
 
-Welcome USER_NAME,
+![Oak Tree Riding school logo](oaktreelogo.jpg)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+A website to promote a family run equestrian centre within Leicestershire, UK.
 
-## Gitpod Reminders
+ 
+## UX
+ 
+### Aims
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+**External user’s goal** 
 
-A blue button should appear to click: *Make Public*,
+The site's users are both aspiring and existing equestrians (or parents of) who wish to know more about the riding school, facilities and lesson options available to them.
 
-Another blue button should appear to click: *Open Browser*.
+**Site owner's goal**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+To promote the riding school to potential new clients whilst increasing brand and company awareness. 
 
-A blue button should appear to click: *Make Public*,
+ 
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+#### User Stories
+> -  *I want to be informed of the facilities that are available at the riding school to see if they are suitable for my needs.*
+> -  *I would like to see the lesson options available and pricing structures.*
+> -  *I would like to be able to book a lesson or make an enquiry about the school via a contact form.*
+> -  *I would like to engage with the school through social media, such as Facebook for viewing up to date information
+and Instagram to view the facilities further.*
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+#### Wireframes 
+![Wireframes preview](wireframespreview.jpg)
+Wireframes have been created using a mobile first approach. 
+Please [click here](wireframesdesktopandmobile.pdf) to view the PDF showing full wireframes for the site. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+- **Intro/Homepage:** contains hero image to entice the user and create impact, contains initial information about the riding school.
+- **Lesson details:** provide information on the types of lessons available and pricing options.
+- **Our horses page:**  gallery and information page so potential clients can view and gain more information on different equines at the school. 
+- **Contact form:**  contact form where users can make enquiries and book lessons. 
+- **Location:**  provide map so users can view the location of the riding school and see if it is viable for them to travel there. 
+- **Footer:** with social media links to enable easy access to other social media sites which can offer more information to the user.
