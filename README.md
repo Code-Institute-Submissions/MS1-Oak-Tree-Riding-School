@@ -31,6 +31,7 @@ and Instagram to view the facilities further.*
 
 #### Wireframes 
 ![Wireframes preview](wireframespreview.jpg)
+
 Wireframes have been created using a mobile first approach. 
 Please [click here](wireframesdesktopandmobile.pdf) to view the PDF showing full wireframes for the site. 
 
