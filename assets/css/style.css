@@ -8,15 +8,21 @@
       }
 
 .navbar a{
-     font-family:Lora!important}
+     font-family:Lora!important;
+     font-size: 16px;}
+
+.nav-item li {
+    font-family:Lora;
+    color: black;
+}
 
 li {
     margin-right: 20px;
     color: black;
 }
 .nav2 li {
-    margin-right: 5px
-    color:black;
+    margin-right: 5px;
+    color: #000;
 }
 
 .navbar-nav.navbar-center {
