@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap');
 
-
+/*--Navigation styling--*/
 .img-container {
         text-align: center;
         display: block;
       }
 
-.navbar a{ font-family:Lora!important}
+.navbar a{
+     font-family:Lora!important}
 
 li {
     margin-right: 20px;
@@ -24,14 +25,12 @@ li {
     transform: translatex(-50%);
 }
 
-.featurette-heading h2 {font-family: 'Lora', sans-serif;
-}
-
-.intro-feature h5 {
+/*--Intro section--*/
+.intro h5 {
     font-family: 'Lora', sans-serif;
 }
 
-.intro-feature p {
+.intro p {
     font-family: 'Hind Madurai', sans-serif;
 }
 
