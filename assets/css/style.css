@@ -34,6 +34,22 @@ li {
     font-family: 'Hind Madurai', sans-serif;
 }
 
+/*--About section--*/
+.about h4 {
+    font-family: 'Lora', sans-serif;
+}
+
+.about p {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.about li {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.instructors h5 {
+    font-family: 'Lora', sans-serif;
+}
 /*--Footer styling--*/
 
 .site-footer
