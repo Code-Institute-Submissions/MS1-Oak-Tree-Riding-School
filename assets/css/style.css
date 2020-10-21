@@ -47,9 +47,22 @@ li {
     font-family: 'Hind Madurai', sans-serif;
 }
 
-.instructors h5 {
+.instructors h4 {
     font-family: 'Lora', sans-serif;
 }
+
+.team-bio p {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+/*--card--*/
+
+.card-body p {
+    font-family: 'Hind Madurai', sans-serif;
+    font-size:14px;
+}
+
+
 /*--Footer styling--*/
 
 .site-footer
