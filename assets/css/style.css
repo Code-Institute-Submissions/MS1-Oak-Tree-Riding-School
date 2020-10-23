@@ -121,6 +121,11 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
+.contact-information {
+    font-family: 'Hind Madurai', sans-serif;
+    font-size:14px;
+}
+
 /*--Footer styling--*/
 
 .site-footer
