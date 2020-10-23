@@ -68,6 +68,58 @@ li {
     font-size:14px;
 }
 
+/*--lessons--*/
+.lessons h4{
+     font-family: 'Lora', sans-serif;
+}
+
+.lessons p {
+    font-family: 'Hind Madurai', sans-serif;
+    font-size:15px;
+}
+
+.list-group-item {
+    font-family: 'Hind Madurai', sans-serif;
+    font-size:14px;
+}
+
+/*--Contact form--*/
+
+.contact-us h4 {
+    font-family: 'Lora', sans-serif;
+}
+
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 5px; 
+  border: 1px solid #ccc; /
+  border-radius: 4px;
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+
+input[type=submit] {
+  background-color: #737373;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #5a5a5a;
+}
+
+
+.container-form {
+  border-radius: 5px;
+  background-color: #e9e5e5;
+  padding: 20px;
+}
 
 /*--Footer styling--*/
 
