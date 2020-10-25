@@ -52,18 +52,24 @@ I have taken on inspiration from sites such as Linden Tree Ranch and Markfield e
 clean by utilizing whitespace and strong typography to make it inviting to the user and to make content easily readable. 
 
 **Colours**
+
 White space has been used to provide a sense of calm, I have also utilised a golden sand colour (#fafafa) within the logo and footer. 
 This has been used to tie in with the sand in the arena of the riding school and also provides an upmarket feel to the site and brand. 
 
-I have used (#ffffff) for my main text to make it clearly visible to the user against the white background. 
+I have used (#ffffff) for my main text to make the typography contrasting and clear to the user against the white background. 
 
-Typography
-
-
-Heading text 
+**Typography**
 
 
-Body text 
+**Heading text**
 
+The font Lora has been used for headings - this font has been selected to provide an upmarket feel to the branding.
 
-Photography
+**Body text**
+
+ Hind Madurai has been used for the body text, this sans serif font is clearly legible to the user and contrasts nicely against the heading and navigation font of Lora.
+
+**Photography**
+
+Photography is one of the important elements on the site, bright and calming images have been used to create a sense of relaxation to the user and 
+to tie in with the simple color palette. 
