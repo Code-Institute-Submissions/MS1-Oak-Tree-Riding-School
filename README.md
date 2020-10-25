@@ -39,9 +39,31 @@ Please [click here](wireframesdesktopandmobile.pdf) to view the PDF showing full
 
 ## Features
 
-- **Intro/Homepage:** contains hero image to entice the user and create impact, contains initial information about the riding school.
+- **Intro/Homepage:** contains hero image to create impact, contains initial information about the riding school.
 - **Lesson details:** provide information on the types of lessons available and pricing options.
 - **Our horses page:**  gallery and information page so potential clients can view and gain more information on different equines at the school. 
 - **Contact form:**  contact form where users can make enquiries and book lessons. 
 - **Location:**  provide map so users can view the location of the riding school and see if it is viable for them to travel there. 
 - **Footer:** with social media links to enable easy access to other social media sites which can offer more information to the user.
+
+
+## Surface
+I have taken on inspiration from sites such as Linden Tree Ranch and Markfield equestrian centre. I want to provide a website that is very
+clean by utilizing whitespace and strong typography to make it inviting to the user and to make content easily readable. 
+
+**Colours**
+White space has been used to provide a sense of calm, I have also utilised a golden sand colour (#fafafa) within the logo and footer. 
+This has been used to tie in with the sand in the arena of the riding school and also provides an upmarket feel to the site and brand. 
+
+I have used (#ffffff) for my main text to make it clearly visible to the user against the white background. 
+
+Typography
+
+
+Heading text 
+
+
+Body text 
+
+
+Photography
