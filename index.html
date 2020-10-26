@@ -27,7 +27,7 @@
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="nav navbar-nav navbar-center">
+        <ul class="nav navbar-nav mx-auto">
             <li class="nav-item active">
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
              </li>
@@ -119,16 +119,16 @@
                             up to Grand Prix level. She loves to see new students at the school progress.</p> <br>
                             <img class="featurette-image img-fluid mx-auto" src="assets/images/staffliz.jpg" alt="staff member liz with horse">      
                             </div> 
-                        <div class="col-md-4 team-bio pb-2">
+                        <div class="col-md-4 team-bio pb-2 mx-auto">
                         <b> Zoe Wicks </b> <br>
                         <p>Zoe has been teaching at Oak Tree Riding School for the past four years. She excels at teaching beginners and takes 
                          alot of our beginner group classes and hacks. She has her own horses and competes locally.</p> <br>
                         <img class="featurette-image img-fluid mx-auto" src="assets/images/staffzoe.jpg" alt="staff member zoe with horse">
                         </div>
-                            <div class="col-md-4 team-bio pb-2">
+                            <div class="col-md-4 team-bio pb-2 mx-auto">
                              <b> Georgia Grey </b> <br>
                              <p>Georgia is our advanced jumping instructor. She has competed locally since childhood in show jumping and team chasing ! 
-                            She enjoys getting students confidence up in both show jumping and cross country. <br> </p>
+                            She enjoys getting students confidence up in show jumping and cross country.  </p> <br>
                             <img class="featurette-image img-fluid mx-auto" src="assets/images/staffgeorgia.jpg" alt="staff member georgia showjmuping">    
                             </div>
                    </div>
@@ -137,18 +137,24 @@
         
 </section>
 
-        <hr class="featurette-divider">
+   
         
 <!--Meet the horses-->
 
 
 <section id="horses">
-    <div class="col instructors d-flex justify-content-center pb-4">
-        <h4> Meet the horses</h4>
-    </div>
+            <div class="container">
+             <hr class="featurette-divider">  
+                <div class="row">
+                    <div class="col instructors d-flex justify-content-center pt-4">
+          
+                        <h4> Meet the horses</h4>
+                    </div>
+                </div>
+            </div>
         
 
- <div class="horses py-5 pb-4">
+ <div class="horses py-5 pb-1">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -182,7 +188,7 @@
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="assets/images/beauty.jpg" alt="riding school horse Beauty">
                 <div class="card-body">
-                  <p class="card-text">Beauty<br> 14hh <br> Age: 12 Beauty is a black pony and is a great all rounder. Her favourite activity is hacking and she
+                  <p class="card-text">Beauty<br> 14hh <br> Age: 12 <br> Beauty is a black pony and is a great all rounder. Her favourite activity is hacking and she
                   can be ridden by both beginner and experienced riders.</p> 
                   <div class="d-flex justify-content-between align-items-center">
                 
@@ -220,7 +226,7 @@
                 <div class="card mb-4 box-shadow">
                     <img class="card-img-top" src="assets/images/fanta.jpeg" alt="riding school horse Fanta">
                         <div class="card-body">
-                            <p class="card-text">Fanta <br> 15.3hh <br> Age: 11 <br> Fanta is used in all levels of lessons. He enjoys jumping and is a great all rounder.
+                            <p class="card-text">Fanta <br> 15.3hh <br> Age: 11 <br> Fanta is used in all levels of lessons is a great all rounder.
                                  He is often the favourite during competitons! </p>
                                 <div class="d-flex justify-content-between align-items-center">
                     
@@ -238,8 +244,10 @@
 
 <section id="lessons">
     <div class="container">
+        <hr class="featurette-divider">
         <div class="row">
-            <div class="col-md-5 lessons">
+            
+            <div class="col-md-5 lessons pt-4">
              <h4> Lessons</h4> 
             <br>
              <p> We offer lessons for total beginners through to experienced riders. Please see pricing for our
@@ -271,8 +279,9 @@
 
 <section id="contact">
 <div class="container">
+    <hr class="featurette-divider">
     <div class="row"> 
-        <div class="col contact-us d-flex justify-content-center pb-4">
+       <div class="col contact-us d-flex justify-content-center pt-4 pb-6">
         <h4> Contact Us</h4>
         </div>
     </div>
@@ -282,14 +291,14 @@
 
 <div class="container">
         <div class="row">
-            <div class="col-md-6 mb-4">
+            <div class="col-md-6 mb-8">
                 <form action="action_page.php">
 
                     <label for="fname">First Name</label>
-                    <input type="text" id="fname" name="firstname" placeholder="Your first name..">
+                    <input type="text" id="fname" name="firstname" placeholder="Your first name">
 
                     <label for="lname">Last Name</label>
-                    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                    <input type="text" id="lname" name="lastname" placeholder="Your last name">
 
                     <label for="subject">Subject</label>
                     <input type="text" id="subject" name="subject" placeholder="Subject">

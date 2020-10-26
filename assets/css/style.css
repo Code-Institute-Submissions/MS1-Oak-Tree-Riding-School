@@ -2,6 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap');
 
 
+/*--Logo--*/
+
+.img-container {
+    margin-top:65px;
+}
+
 
 /*--Navigation styling--*/
 .navbar {min-height: 80px;
