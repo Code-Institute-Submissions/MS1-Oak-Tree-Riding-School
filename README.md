@@ -64,6 +64,8 @@ The font Lora has been used for headings - this font has been selected to provid
 Photography is one of the important elements on the site, bright and calming images have been used to create a sense of relaxation to the user and 
 to tie in with the simple color palette. 
 
+![Photography examples](assets/images/readmephotography.jpg)
+
 ---
 ## Features
 
