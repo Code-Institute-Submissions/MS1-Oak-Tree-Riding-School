@@ -161,6 +161,7 @@ Inspiration has been taken from the following websites
 - [Linden Tree Retreat and Ranch](https://www.lindenretreat.com/)
 
 ![Photography examples](assets/images/lindenpreview.jpg)
+
 I really like the use of whitespace and focus on strong imagery
 and typography. I felt like this was something I wanted to utilize within my own project. 
 
