@@ -64,6 +64,7 @@ The font Lora has been used for headings - this font has been selected to provid
 Photography is one of the important elements on the site, bright and calming images have been used to create a sense of relaxation to the user and 
 to tie in with the simple color palette. 
 
+---
 ## Features
 
 ### Current features
@@ -106,6 +107,7 @@ The following technologies have been used in the project.
 
 - Google fonts - A library of 1005 free licensed font families. 
 
+---
 ## Resources
 
 The following resources have been used within the project.
@@ -129,6 +131,31 @@ my understanding of the Bootstrap grid.
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - used to debug HTML and CSS and to view responsiveness on different screen sizes.
 
 * [Responsinator](http://www.responsinator.com/) - used to test responsiveness of the website at different resolutions.
+
+
+## Testing
+
+---
+
+
+
+## Problems and solutions 
+
+1. The Navbar menu background was going transparent when toggling on mobile view. This was fixed by using Chrome dev tools to select the class and override the Bootstrap styling.
+
+2. When using the fixed navbar the main Logo was covered.
+
+3. Headers of the site were masked by the header bar when using navigation menu.
+
+---
+
+
+
+
+
+
+
+
 
 
 
