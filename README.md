@@ -29,6 +29,21 @@ To promote the riding school to potential new clients whilst increasing brand an
 and Instagram to view the facilities further.*
 
 
+- #### First Time Visitor Goals
+  - As a First Time Visitor, I want to easily understand the main purpose of the site and to learn more about the riding school.
+
+  - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content such as information on facilities and lesson pricing.
+
+  - As a First Time Visitor, I want to look at potential social media platforms to gain more information about the riding school and to see if they are recommended.
+
+- #### Returning Visitor Goals
+  - As a Returning Visitor, I want to find information about coding challenges.
+
+  - As a Returning Visitor, I want to find the best way to get in contact to either book a lesson or make a general enquiry.
+
+  - As a Returning Visitor, I want to find location information to see if it would be feasible to travel to the riding school.
+
+
 ### Skeleton
 ![Wireframes preview](wireframespreview.jpg)
 
@@ -146,6 +161,7 @@ my understanding of the Bootstrap grid.
 - The W3C Markup Validator and W3C CSS Validator Services were used to validate the website and ensure that there were
 no syntax errors.
 
+
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)  has been used to test the responsiveness of the website
 
 - [Responsinator](http://www.responsinator.com/) - has also been used to test responsiveness of the website at different resolutions.
@@ -174,7 +190,7 @@ added to each section to ensure that headers could be viewed and weren't masked 
 2. On mobile view the instructors section images weren't centered correctly. This was fixed by adding divs around the images with a text-center property.
 
 ### Functionality
-1. The social media links were displaying a 404. This was fixed by updating the link to include the full path of https://
+1. The social media links were displaying a 404. This was fixed by updating the link to include https:// in the link file path. 
 
 2. Contact form was missing the required element - this was added so the form couldn't be
 submitted without entries. 
@@ -228,8 +244,9 @@ All copy has been written by the developer.
 
 **Code Snippets**
 
-The [Bootstrap](https://getbootstrap.com/) Library was used in order to make the site responsive using the grid system. 
+- The [Bootstrap](https://getbootstrap.com/) Library was used in order to make the site responsive using the grid system. 
 
+- [Footer Template](https://codepen.io/scanfcode/pen/MEZPNd) which was used for inspiration and edited to fit into the design of my site 
 
 ## Acknowledgements
 
