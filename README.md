@@ -102,12 +102,21 @@ The following technologies have been used in the project.
 
 **Frameworks**
 
-- Bootstrap -  Free and open-source CSS framework directed at responsive, mobile-first front-end web development
+- [Bootstrap](https://getbootstrap.com/) -  Free and open-source CSS framework directed at responsive, mobile-first front-end web development
 
 **Integrations**
-- Font Awesome - Font Awesome is a font and icon toolkit based on CSS and Less.
+- [Font Awesome](https://fontawesome.com/) - used for icons within the footer bar. 
 
-- Google fonts - A library of 1005 free licensed font families. 
+- [Google fonts](https://fonts.google.com/) - A library of 1005 free licensed font families. 
+
+
+**IDE, Version control, Repository storage**
+
+[Git](https://git-scm.com/) - Distributed Version Control tool to store versions of files and track changes.
+
+[GitPod](https://gitpod.io/) - Workspace IDE.
+
+[GitHub](https://github.com/) - Hosting service used to manage my Git repositories.
 
 ---
 ## Resources
@@ -115,9 +124,6 @@ The following technologies have been used in the project.
 The following resources have been used within the project.
 
 * [Fontjoy](https://fontjoy.com/) - a google font pairing generator.
-
-* [Unsplash](https://unsplash.com/) and [Pixabay](https://pixabay.com/) - royalty free stock images for
-photography used within the website.
 
 * [Wix logo maker](https://www.wix.com/logo/maker) - for the logo creation. 
 
@@ -137,19 +143,57 @@ my understanding of the Bootstrap grid.
 
 ## Testing
 
----
+- The W3C Markup Validator and W3C CSS Validator Services were used to validate the website and ensure that there were
+no syntax errors.
+
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)  has been used to test the responsiveness of the website
+
+- [Responsinator](http://www.responsinator.com/) - has also been used to test responsiveness of the website at different resolutions.
 
 
 
 ## Problems and solutions 
 
+### Design
+
+1. In my wireframes I had opted to have the logo to the top left of the page. I felt 
+that this resulted in it getting lost within the whitespace. I decided to make the design
+decision to center this. I felt it created more of an impact on both desktop and mobile
+views.
+
+### Navigation bar
+
 1. The Navbar menu background was going transparent when toggling on mobile view. This was fixed by using Chrome dev tools to select the class and override the Bootstrap styling.
 
-2. When using the fixed navbar the main Logo was covered.
+2. When using the fixed navbar the main Logo was covered this was fixed by adding margin top in the CSS.
 
-3. Headers of the site were masked by the header bar when using navigation menu.
+### Page aesthetics
+1. Headers of the site were masked by the navigation bar when clicking different links of the site - margin top was 
+added to each section to ensure that headers could be viewed and weren't masked by the header bar.
+
+2. On mobile view the instructors section images weren't centered correctly. This was fixed by adding divs around the images with a text-center property.
+
+### Functionality
+1. The social media links were displaying a 404. This was fixed by updating the link to include the full path of https://
+
+2. Contact form was missing the required element - this was added so the form couldn't be
+submitted without entries. 
+
+3. Social media icons were missing span elements - this would be added
+to enable functionality for users that require screen readers. 
+
 
 ---
+## Deployment 
+The website was deployed to Github pages via the following steps.
+1. Log in to Github and locate the websites repository.
+2. Under the repository name click on settings on the top right of the menu.
+3. Under the source section select the dropdown 'None' and Master branch.
+4. The page will automatically refresh.
+5. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+
+
 
 ## Credits
 
@@ -160,22 +204,43 @@ Inspiration has been taken from the following websites
 
 - [Linden Tree Retreat and Ranch](https://www.lindenretreat.com/)
 
-![Photography examples](assets/images/lindenpreview.jpg)
+![Linden Tree Retreat preview](assets/images/lindenpreview.jpg)
 
 I really like the use of whitespace and focus on strong imagery
 and typography. I felt like this was something I wanted to utilize within my own project. 
 
 - [Markfield Equestrian Centre](https://www.mecweb.co.uk/) 
 
-![Photography examples](assets/images/markfieldpreview.jpg)
+![Markfield preview](assets/images/markfieldpreview.jpg)
 
 I feel like this riding school website has a good structure for prospective clients to gain information on the riding school with ease. I wanted to emulate this 
 within my project. I was particuarly inspired by the layout of the horses section and this has led me to the use bootstrap cards within this section to provide clear concise information
 on horses at the riding school.
 
+**Photography**
+* [Unsplash](https://unsplash.com/) and [Pixabay](https://pixabay.com/) - royalty free stock images for
+photography used within the website.
 
 
+**Copy**
 
+All copy has been written by the developer. 
+
+**Code Snippets**
+
+The [Bootstrap](https://getbootstrap.com/) Library was used in order to make the site responsive using the grid system. 
+
+
+## Acknowledgements
+
+- My mentor Antonio Rodriguez for their helpful feedback. 
+
+- [Jim Lynx](https://github.com/JimLynx) - current channel lead for the user centric frontend module, the presentations in both
+MS1 planning and GitHub and Gitpod have been a valuable learning resource. 
+
+- The Code institute slack community - including help for specific link and navigation styling queries from [Anthony](https://github.com/auxfuse) and [Jim Lynx](https://github.com/JimLynx).
+
+- Tutor support for help with a technical query. 
 
 
 
