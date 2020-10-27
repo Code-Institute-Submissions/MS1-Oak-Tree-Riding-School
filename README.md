@@ -37,7 +37,7 @@ and Instagram to view the facilities further.*
   - As a First Time Visitor, I want to look at potential social media platforms to gain more information about the riding school and to see if they are recommended.
 
 - #### Returning Visitor Goals
-  - As a Returning Visitor, I want to find information about coding challenges.
+  - As a Returning Visitor, I want to find information about lesson prices.
 
   - As a Returning Visitor, I want to find the best way to get in contact to either book a lesson or make a general enquiry.
 
@@ -157,6 +157,45 @@ my understanding of the Bootstrap grid.
 
 
 ## Testing
+
+#### Testing user Stories
+
+**First Time Visitor Goals**
+
+
+- As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+
+  - When opening the site the user is greeted by a large logo in the center. The homepage is clear with a large image of the indoor school and introduction alongside to create a great first impression.
+
+- As a First Time Visitor, I want to be able to easily navigate throughout the site to find content such as information on facilities and lesson pricing.
+
+  - The navbar is clear using a color palette of black text on white, it remains fixed so users can easily access any links on the website.
+
+- As a First Time Visitor, I want to look at potential social media platforms to gain more information about the riding school and to see if they are recommended.
+  - The footer contains links to the social media websites where they can learn more about the riding school,
+  how popular it is, and any reviews from current clients. 
+
+
+**Returning Visitor Goals**
+
+- As a Returning Visitor, I want to find information about lesson prices.
+
+  - This section is clearly located lesson section within the navbar. There is also an additional link in the footer 
+ which takes the user to the lesson section. 
+
+-    As a Returning Visitor, I want to find the best way to get in contact to either book a lesson or make a general enquiry.
+   
+
+     - There is a clearly located section contact within the navbar. In addition there is a contact section within the footer bar.
+   Links to social media have been included in the footerbar if the visitor would like to contact the school via this method.
+
+-   As a Returning Visitor, I want to find location information to see if it would be feasible to travel to the riding school.
+
+    - Within the contact section there is a map where users can see the location of the riding school. The address has also been
+    included clearly within the footer. 
+
+
+
 
 - The W3C Markup Validator and W3C CSS Validator Services were used to validate the website and ensure that there were
 no syntax errors.
