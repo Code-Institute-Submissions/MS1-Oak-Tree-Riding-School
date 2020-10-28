@@ -163,7 +163,7 @@
  <div class="horses py-5 pb-1">
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4 mb-4">
                     <div class="card mb-4 box-shadow">
                         <img class="card-img-top" src="assets/images/honey.jpg" alt="riding school horse Honey">
                             <div class="card-body">
@@ -178,7 +178,7 @@
                 
             
                 </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-4">
                         <div class="card mb-4 box-shadow">
                             <img class="card-img-top" src="assets/images/snowball.jpg" alt="riding school horse Snowball">
                             <div class="card-body">
@@ -190,7 +190,7 @@
                         </div>
                     </div>
                 </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mb-4">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="assets/images/beauty.jpg" alt="riding school horse Beauty">
                 <div class="card-body">
@@ -202,7 +202,7 @@
                 </div>
               </div>
             </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-4">
                         <div class="card mb-4 box-shadow">
                          <img class="card-img-top" src="assets/images/bob.jpg" alt="riding school horse Bob">
                             <div class="card-body">
@@ -216,7 +216,7 @@
                     </div>
             
             
-            <div class="col-md-4">
+            <div class="col-md-4 mb-4">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="assets/images/duke.jpg" alt="riding school horse Duke">
                 <div class="card-body">
@@ -228,7 +228,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mb-4">
                 <div class="card mb-4 box-shadow">
                     <img class="card-img-top" src="assets/images/fanta.jpeg" alt="riding school horse Fanta">
                         <div class="card-body">
@@ -253,26 +253,95 @@
         <hr class="featurette-divider">
         <div class="row">
             
-            <div class="col-md-5 lessons pt-4 mb-5 mt-5">
+            <div class="col-md-5 lessons pt-4 mt-5">
              <h4> Lessons</h4> 
             <br>
              <p> We offer lessons for total beginners through to experienced riders. Please see pricing for our
              lessons and hacks below. </p> <br>
-                <div class="card" style="width: 18rem;">
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Group lesson - 30 mins £16</li>
-                        <li class="list-group-item">Group lesson - 1 hour £26</li>
-                        <li class="list-group-item">Semi private lesson - 30 mins £22</li>
-                        <li class="list-group-item">Semi private lesson - 1 hour £36</li>
-                        <li class="list-group-item">Group hack - 1 hour £31</li>
-                        <li class="list-group-item">Semi private hack 30 mins £22</li>
-                        <li class="list-group-item">Semi private hack - 1 hour £36</li>
-                    </ul>
+             
+
+                <table class="table">
+                 <thead class="thead-light">
+                 <tr>
+      
+                 <th scope="col">Lesson Type</th>
+                <th scope="col">Length</th>
+                <th scope="col">Price</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <th scope="row">Group lesson</th>
+                <td>30 mins</td>
+                <td>£16</td>
+      
+                </tr>
+                <tr>
+                <th scope="row">Group lesson</th>
+                <td>1 hour</td>
+                <td>£26</td>
+                </tr>
+                <tr>
+                <th scope="row">Semi private lesson</th>
+                <td>30 mins</td>
+                <td>£22</td>
+                </tr>
+                <tr>
+                <th scope="row">Semi private lesson</th>
+                <td>1 hour</td>
+                <td>£30</td>
+                </tr>
+                <tr>
+                <th scope="row">Private lesson</th>
+                <td>30mins</td>
+                <td>£26</td>
+                </tr>
+                <tr>
+                <th scope="row">Private lesson</th>
+                <td>45 mins</td>
+                <td>£35</td>
+                </tr>
+                <tr>
+                <th scope="row">Group hack</th>
+                <td>1 hour</td>
+                <td>£31</td>
+                </tr>
+                <tr>
+                <th scope="row">Semi Private hack</th>
+                <td>30 mins</td>
+                <td>£22</td>
+                </tr>
+                <tr>
+                <th scope="row">Semi Private hack</th>
+                <td>1 hour</td>
+                <td>£36</td>
+                </tr>
+                <tr>
+                <th scope="row">Private hack</th>
+                <td>45 mins</td>
+                <td>£35</td>
+                </tr>
+                <tr>
+                <th scope="row">Private hack</th>
+                <td>1 hour</td>
+                <td>£40</td>
+                </tr>
+                <tr>
+                <th scope="row">Half day pub ride</th>
+                <td>3.5 hours</td>
+                <td>£65</td>
+                </tr>
+                
+                </tbody>
+                </table>
                 </div>
-            </div>
                 
                 <div class="col-md-7 pt-5 pb-5 mt-5">
-                    <img class="lesson-image img-fluid mx-auto" src="assets/images/lesson.jpg" alt="student in outdoor arena riding lesson">
+                    <div class="lesson-image">
+                        <img class="lesson-image img-fluid mx-auto" src="assets/images/lesson.jpg" alt="student in outdoor arena riding lesson"> 
+                    </div>
+                        <img class="hack-image img-fluid mx-auto" src="assets/images/hacking.jpg" alt="horse riders on a hack">
+
                 </div>
        
         </div>
@@ -312,7 +381,7 @@
                     <label for="message">Message</label>
                     <textarea id="message" name="message" style="height:200px" required></textarea>
 
-                    <input type="submit" value="Send Request">
+                    <input type="submit" value="Submit">
 
                     </form>
              </div>
