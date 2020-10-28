@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap');
 
+body {
+    overflow-x: hidden;
+}
+
 
 /*--Logo--*/
 
@@ -12,6 +16,7 @@
 .container {
     width:100%;
 }
+
 
 /*--Navigation styling--*/
 .navbar {min-height: 80px;
