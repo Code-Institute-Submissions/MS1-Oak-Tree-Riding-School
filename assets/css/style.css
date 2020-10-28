@@ -8,6 +8,10 @@
     margin-top:65px;
 }
 
+/*--Main styling--*/
+.container {
+    width:100%;
+}
 
 /*--Navigation styling--*/
 .navbar {min-height: 80px;
@@ -82,7 +86,16 @@ li {
 
 .team-bio p {
     font-family: 'Hind Madurai', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
 }
+
+.team-bio b {
+    font-family: 'Hind Madurai', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 
 /*--card--*/
 
