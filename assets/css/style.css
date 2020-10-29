@@ -98,6 +98,9 @@ li {
     padding-right: 10px;
 }
 
+.team-bio {
+    overflow: hidden;
+}
 
 /*--card--*/
 
