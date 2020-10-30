@@ -169,6 +169,7 @@ my understanding of the Bootstrap grid.
 
   - When opening the site the user is greeted by a large logo in the center. The homepage is clear with a large image of the indoor school and introduction alongside to create a great first impression.
 
+![Intro screenshot](assets/images/screenshot1.jpg)
 - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content such as information on facilities and lesson pricing.
 
   - The navbar is clear using a color palette of black text on white, it remains fixed so users can easily access any links on the website.
@@ -177,6 +178,7 @@ my understanding of the Bootstrap grid.
   - The footer contains links to the social media websites where they can learn more about the riding school,
   how popular it is, and any reviews from current clients. 
 
+![Photography examples](assets/images/screenshot4.jpg)
 
 **Returning Visitor Goals**
 
@@ -184,6 +186,8 @@ my understanding of the Bootstrap grid.
 
   - This section is clearly located lesson section within the navbar. There is also an additional link in the footer 
  which takes the user to the lesson section. 
+
+ ![Lesson screenshot](assets/images/screenshot3.jpg)
 
 -    As a Returning Visitor, I want to find the best way to get in contact to either book a lesson or make a general enquiry.
    
@@ -196,7 +200,7 @@ my understanding of the Bootstrap grid.
     - Within the contact section there is a map where users can see the location of the riding school. The address has also been
     included clearly within the footer. 
 
-
+![Footer screenshot](assets/images/screenshot4.jpg)
 
 
 - The W3C Markup Validator and W3C CSS Validator Services were used to validate the website and ensure that there were
@@ -239,15 +243,15 @@ that the overflow problem has been solved.
 ### Functionality
 1. The social media links were displaying a 404. This was fixed by updating the link and including https:// in the link address. 
 
-2. Contact form was missing the required element - this was added so the form couldn't be
+2. The contact form was missing the required element - this was added so the form couldn't be
 submitted without entries. 
 
-3. Social media icons were missing span elements - this would be added
+3. The social media icons were missing span elements - this would be added
 to enable functionality for users that require screen readers. 
 
-### Html and CSS validation
-1. When using the (Jigsaw)[https://jigsaw.w3.org/] the following errors arose.
-
+### CSS validation
+1. When using the (Jigsaw)[https://jigsaw.w3.org/] CSS validator the following errors arose.
+![Parse errors](assets/images/parsedebug.png)
 These were debugged and then the code was tested again using direct input where it was free of errors.
 
 
@@ -309,7 +313,7 @@ MS1 planning and GitHub and Gitpod have been a valuable learning resource.
 
 - The Code institute slack community - including help for specific link and navigation styling queries from [Anthony](https://github.com/auxfuse) and [Jim Lynx](https://github.com/JimLynx).
 
-- Tutor support for help with a technical query. 
+- Tutor support for help with a couple of technical queries. 
 
 
 
