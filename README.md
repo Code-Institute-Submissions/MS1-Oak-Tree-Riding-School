@@ -6,7 +6,19 @@ A website to promote a family run equestrian centre within Leicestershire, UK.
 
 Please [click here](https://rebeccadev.github.io/MS1-Oak-Tree-Riding-School/) to view the website.
 
- 
+ ## Index
+
+- [Ux](#ux)
+- [Features](#features)
+- [Resources](#resources)
+- [Testing](#testing)
+- [Problems and solutions](#problems-and-solutions)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Acknowledgements](#acknowledgements)
+
+
+
 ## UX
  
 ### Aims
