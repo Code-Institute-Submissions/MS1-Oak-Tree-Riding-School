@@ -187,7 +187,7 @@ my understanding of the Bootstrap grid.
   - This section is clearly located lesson section within the navbar. There is also an additional link in the footer 
  which takes the user to the lesson section. 
 
- ![Lesson screenshot](assets/images/screenshot3.jpg)
+ ![Lesson screenshot](assets/images/screenshot2.jpg)
 
 -    As a Returning Visitor, I want to find the best way to get in contact to either book a lesson or make a general enquiry.
    
@@ -250,7 +250,7 @@ submitted without entries.
 to enable functionality for users that require screen readers. 
 
 ### CSS validation
-1. When using the (Jigsaw)[https://jigsaw.w3.org/] CSS validator the following errors arose.
+1. When using the [Jigsaw](https://jigsaw.w3.org/) CSS validator the following errors arose.
 ![Parse errors](assets/images/parsedebug.png)
 These were debugged and then the code was tested again using direct input where it was free of errors.
 
