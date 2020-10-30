@@ -172,7 +172,9 @@ my understanding of the Bootstrap grid.
 ![Intro screenshot](assets/images/screenshot1.jpg)
 - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content such as information on facilities and lesson pricing.
 
-  - The navbar is clear using a color palette of black text on white, it remains fixed so users can easily access any links on the website.
+  - The navbar is clear using a color palette of black and dark grey text on a white background, it remains fixed so users can easily access any links on the website.
+
+![Parse errors](assets/images/navbarscreenshot.jpg)
 
 - As a First Time Visitor, I want to look at potential social media platforms to gain more information about the riding school and to see if they are recommended.
   - The footer contains links to the social media websites where they can learn more about the riding school,
@@ -251,7 +253,11 @@ to enable functionality for users that require screen readers.
 
 ### CSS validation
 1. When using the [Jigsaw](https://jigsaw.w3.org/) CSS validator the following errors arose.
+
+
 ![Parse errors](assets/images/parsedebug.png)
+
+
 These were debugged and then the code was tested again using direct input where it was free of errors.
 
 
