@@ -340,3 +340,17 @@ input[type=submit]:hover {
     font-weight:600
   }
 }
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+
+.intro h5 {
+    font-family: 'Lora', sans-serif;
+}
+
+.intro p {
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 10px;
+}
