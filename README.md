@@ -174,7 +174,7 @@ my understanding of the Bootstrap grid.
 
   - The navbar is clear using a color palette of black and dark grey text on a white background, it remains fixed so users can easily access any links on the website.
 
-![Parse errors](assets/images/navbarscreenshot.jpg)
+![Navbar screenshot](assets/images/navbarscreenshot.jpg)
 
 - As a First Time Visitor, I want to look at potential social media platforms to gain more information about the riding school and to see if they are recommended.
   - The footer contains links to the social media websites where they can learn more about the riding school,
