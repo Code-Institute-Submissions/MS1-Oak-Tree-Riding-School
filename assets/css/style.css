@@ -39,7 +39,7 @@
 
 .nav-item li {
     font-family:Lora;
-    color: #000);
+    color: #000;
 }
 
 li {
@@ -145,7 +145,7 @@ li {
 input[type=text], select, textarea {
   width: 100%; 
   padding: 5px; 
-  border: 1px solid #ccc; /
+  border: 1px solid #ccc; 
   border-radius: 4px;
   box-sizing: border-box; 
   margin-top: 6px; 
