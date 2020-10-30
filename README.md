@@ -4,6 +4,8 @@
 
 A website to promote a family run equestrian centre within Leicestershire, UK.
 
+Please [click here](https://rebeccadev.github.io/MS1-Oak-Tree-Riding-School/) to view the website.
+
  
 ## UX
  
@@ -227,15 +229,26 @@ views.
 added to each section to ensure that headers could be viewed and weren't masked by the header bar.
 
 2. On mobile view the instructors section images weren't centered correctly. This was fixed by adding divs around the images with a text-center property.
+Left and right padding was also added to the text within the instructors section to improve the page aesthetics in mobile view.
+
+3. Overflow - when testing the website on mobile devices there was unwanted horizontal overflow. Chrome DevTools was used to determine which element
+was causing the overflow. This was found to be within the instructors section. This error was found to be caused within the row inline styling was used to
+correct it. Testing was then carried out using Chrome DevTools and Responsinator as well as testing on a Google Pixel 3a mobile device. Further testing ensured
+that the overflow problem has been solved. 
 
 ### Functionality
-1. The social media links were displaying a 404. This was fixed by updating the link to include https:// in the link file path. 
+1. The social media links were displaying a 404. This was fixed by updating the link and including https:// in the link address. 
 
 2. Contact form was missing the required element - this was added so the form couldn't be
 submitted without entries. 
 
 3. Social media icons were missing span elements - this would be added
 to enable functionality for users that require screen readers. 
+
+### Html and CSS validation
+1. When using the (Jigsaw)[https://jigsaw.w3.org/] the following errors arose.
+
+These were debugged and then the code was tested again using direct input where it was free of errors.
 
 
 ---
