@@ -6,7 +6,7 @@ A website to promote a family run equestrian centre within Leicestershire, UK.
 
 Please [click here](https://rebeccadev.github.io/MS1-Oak-Tree-Riding-School/) to view the website.
 
- ## Index
+ ### Index
 
 - [Ux](#ux)
 - [Features](#features)
@@ -165,9 +165,13 @@ my understanding of the Bootstrap grid.
 
 * [Balsamiq](https://balsamiq.com/) - used for the creation of wireframes during UI design stage. 
 
+* [Stack Overflow](https://stackoverflow.com/) - general resource used for technical queries.
+
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - used to debug HTML and CSS and to view responsiveness on different screen sizes.
 
 * [Responsinator](http://www.responsinator.com/) - used to test responsiveness of the website at different resolutions.
+
+
 
 
 ## Testing
