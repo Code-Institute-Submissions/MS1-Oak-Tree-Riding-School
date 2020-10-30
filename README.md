@@ -172,7 +172,7 @@ my understanding of the Bootstrap grid.
 ![Intro screenshot](assets/images/screenshot1.jpg)
 - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content such as information on facilities and lesson pricing.
 
-  - The navbar is clear using a color palette of black and dark grey text on a white background, it remains fixed so users can easily access any links on the website.
+  - The navbar is clear using a color palette of black and grey text on a white background, it remains fixed so users can easily access any links on the website.
 
 ![Navbar screenshot](assets/images/navbarscreenshot.jpg)
 
@@ -214,6 +214,12 @@ no syntax errors.
 - [Responsinator](http://www.responsinator.com/) - has also been used to test responsiveness of the website at different resolutions.
 
 
+### Manual testing log
+
+Please find below manual testing log completed for Google Chrome, Internet Explorer and Firefox
+browsers.
+
+![Manual testing log](assets/images/manualtesting.jpg)
 
 ## Problems and solutions 
 
