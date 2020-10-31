@@ -347,7 +347,7 @@ and (max-device-width : 1024px)
 and (orientation : portrait) {
 
 .intro p {
-    font size: 10px;
+    font size: 10px!important;
     }
 }
 
