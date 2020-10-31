@@ -272,7 +272,7 @@ This media query changed the font size to make the design more aesthically pleas
 
 Please see image the below which documents the responsiveness before and after the media query fix.
 
-![ipad responsiveness](ipadresponsiveness.jpg)
+![ipad responsiveness](assets/images/ipadresponsiveness.jpg)
 
 ### Functionality
 1. The social media links were displaying a 404. This was fixed by updating the link and including https:// in the link address. 
