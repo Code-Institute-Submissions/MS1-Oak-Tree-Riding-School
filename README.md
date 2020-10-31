@@ -264,6 +264,16 @@ was causing the overflow. This was found to be within the instructors section. T
 correct it. Testing was then carried out using Chrome DevTools and Responsinator as well as testing on a Google Pixel 3a mobile device. Further testing ensured
 that the overflow problem has been solved. 
 
+4. When testing responsiveness on an ipad the intro section of the site needed to be fixed to maintain good design. 
+To solve this a media query was created which targeted the viewport for the ipad with a portrait orientation. 
+This media query changed the font size to make the design more aesthically pleasing. 
+
+   - *For reasons I've been unable to identify this doesnt display properly on responsinator but displayed correctly in Chrome DevTools*
+
+Please see image the below which documents the responsiveness before and after the media query fix.
+
+![ipad responsiveness](ipadresponsiveness.jpg)
+
 ### Functionality
 1. The social media links were displaying a 404. This was fixed by updating the link and including https:// in the link address. 
 
@@ -274,7 +284,7 @@ submitted without entries.
 to enable functionality for users that require screen readers. 
 
 ### CSS validation
-1. When using the [Jigsaw](https://jigsaw.w3.org/) CSS validator the following errors arose.
+1. When using the [Jigsaw test image](https://jigsaw.w3.org/) CSS validator the following errors arose.
 
 
 ![Parse errors](assets/images/parsedebug.png)
